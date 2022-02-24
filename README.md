@@ -1,5 +1,4 @@
 # PPS-MH8A-Transmitter
-![image](https://user-images.githubusercontent.com/29156386/155590879-0a8db1dc-762b-49c2-bb24-b5917e53d6f1.png)
 
 This project was birthed from the discussion here:
 https://scubaboard.com/community/threads/reading-wireless-air-transmitter-using-arduino.601083/page-9
@@ -18,5 +17,6 @@ Software:
 
 This project has been built by Ryan Gedminas and Nick "MadUKDiver" with contributions from the Scuba Board users; tursiops, -JD-, uw, dm9876 and Robbyg, amongst others who participated in the discussion.
 
+![image](https://user-images.githubusercontent.com/29156386/155590879-0a8db1dc-762b-49c2-bb24-b5917e53d6f1.png)
 
-
+![image](https://user-images.githubusercontent.com/29156386/155591038-1e40027b-295c-4561-9950-6a4924d71943.png)
