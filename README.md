@@ -6,4 +6,4 @@ Some scuba computers utilize a [wireless air integration system](https://www.sea
 
 In this project we explore how the various pieces of data are encoded in the data packet transmitted by these devices and how an individual can create their own data packets and transmit them to their computer. In development is a receiver and transmitter based on an arduino that could display all nearby transmitters’ serial numbers and pressure values.
 
-See the Wiki for more information regarding recording, decoding, and transmitting the signal yourself using a computer's sound card or dedicated software defined radio.
+See the [Wiki](https://github.com/rg422/PPS-MH8A-Transmitter/wiki/Overview) for more information regarding recording, decoding, and transmitting the signal yourself using a computer's sound card or dedicated software defined radio.
