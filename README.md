@@ -1,5 +1,5 @@
 # PPS-MH8A-Transmitter
-<img src="http://cdn.shopify.com/s/files/1/1193/9448/products/PelagicTransmitterFrontandBack_1200x1200.png?v=1624660464" alt="PELAGIC Transmitter - Works with Aqua Lung, Oceanic, Sherwood and Shea –  Beach Cities Scuba Centers"/>![image](https://user-images.githubusercontent.com/29156386/155590879-0a8db1dc-762b-49c2-bb24-b5917e53d6f1.png)
+![image](https://user-images.githubusercontent.com/29156386/155590879-0a8db1dc-762b-49c2-bb24-b5917e53d6f1.png)
 
 This project was birthed from the discussion here:
 https://scubaboard.com/community/threads/reading-wireless-air-transmitter-using-arduino.601083/page-9
