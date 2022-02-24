@@ -1,4 +1,4 @@
-# PPS-MH8A-Transmitter
+# PPS MH8A Transmitter
 
 This project was birthed from the discussion here:
 https://scubaboard.com/community/threads/reading-wireless-air-transmitter-using-arduino.601083/page-9
