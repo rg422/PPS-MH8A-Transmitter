@@ -12,7 +12,7 @@ Software:
 * Arduino Decoder (not started)
 * Arduino Encoder/Transmitter (not started/tbd)
 
-See the [Wiki](https://github.com/rg422/PPS-MH8A-Transmitter/wiki/Overview) for more information regarding recording, decoding, and transmitting the signal yourself using a computer's sound card or dedicated software defined radio.
+**See the [Wiki](https://github.com/rg422/PPS-MH8A-Transmitter/wiki/Overview) for more information regarding recording, decoding, and transmitting the signal yourself using a computer's sound card or dedicated software defined radio.**
 
 This project has been built by Ryan Gedminas and Nick "MadUKDiver" with contributions from the Scuba Board users; tursiops, -JD-, uw, dm9876 and Robbyg, amongst others who participated in the discussion.
 
