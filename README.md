@@ -17,6 +17,4 @@ Software:
 
 This project has been built by Ryan Gedminas and Nick "MadUKDiver" with contributions from the Scuba Board users; tursiops, -JD-, uw, dm9876 and Robbyg, amongst others who participated in the discussion.
 
-![image](https://user-images.githubusercontent.com/29156386/155590879-0a8db1dc-762b-49c2-bb24-b5917e53d6f1.png)
-
-![image](https://user-images.githubusercontent.com/29156386/155591038-1e40027b-295c-4561-9950-6a4924d71943.png)
+![image](https://user-images.githubusercontent.com/29156386/155591196-a673de36-3da4-400e-95c1-3057fd193f94.png) ![image](https://user-images.githubusercontent.com/29156386/155591038-1e40027b-295c-4561-9950-6a4924d71943.png)
