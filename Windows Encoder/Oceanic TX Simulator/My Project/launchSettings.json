@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Oceanic TX Simulator": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
