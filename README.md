@@ -12,6 +12,7 @@ Software:
 * Windows Standalone Decoder (not started)
 * Arduino Decoder (not started)
 * Arduino Encoder/Transmitter (not started/tbd)
+* DPV Battery level transmitter (not started) 
 
 **See the [Wiki](https://github.com/rg422/PPS-MH8A-Transmitter/wiki) for more information regarding recording, decoding, and transmitting the signal yourself using a computer's sound card or dedicated software defined radio.**
 
