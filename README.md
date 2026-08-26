@@ -16,6 +16,6 @@ Software:
 
 **See the [Wiki](https://github.com/rg422/PPS-MH8A-Transmitter/wiki) for more information regarding recording, decoding, and transmitting the signal yourself using a computer's sound card or dedicated software defined radio.**
 
-This project has been built by Ryan Gedminas and Nick "MadUKDiver" with contributions from the Scuba Board users; tursiops, -JD-, uw, dm9876 and Robbyg, amongst others who participated in the discussion.
+This project has been built by rg422 and Nick "MadUKDiver" with contributions from the Scuba Board users; tursiops, -JD-, uw, dm9876 and Robbyg, amongst others who participated in the discussion.
 
 ![image](https://user-images.githubusercontent.com/29156386/155591196-a673de36-3da4-400e-95c1-3057fd193f94.png) ![image](https://user-images.githubusercontent.com/29156386/155591038-1e40027b-295c-4561-9950-6a4924d71943.png)
